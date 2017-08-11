@@ -1,5 +1,5 @@
 package version
 
 func Semver() string {
-	return "0.2.1"
+	return "1.0.0beta"
 }
